@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on university coursework (C · Dafny · LC-3) and small personal projects<br>👯 I’m looking to collaborate on beginner-friendly open-source and student projects, as well as simple web apps<br>🤝 I’m open to feedback on code quality, best practices, and data structures/algorithms<br>🌱 I’m currently learning data structures, computer architecture, and web fundamentals (HTML · CSS · JavaScript)<br>💬 Ask me about C · Dafny · LC-3 basics, student journalism, and video editing<br>⚡ Fun fact: I’ve worked on both coding projects and school journalism/video features
+🔭 I’m currently working on university coursework (C · Java) and small personal projects<br>👯 I’m looking to collaborate on beginner-friendly open-source and student projects, as well as simple web apps<br>🤝 I’m open to feedback on code quality, best practices, and data structures/algorithms<br>🌱 I’m currently learning data structures, computer architecture, and web fundamentals (HTML · CSS · JavaScript)<br>💬 Ask me about C · Dafny · LC-3 basics, student journalism, and video editing<br>⚡ Fun fact: I’ve worked on both coding projects and school journalism/video features
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
