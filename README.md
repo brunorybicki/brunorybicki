@@ -18,6 +18,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=brunorybicki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=brunorybicki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=brunorybicki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=brunorybicki&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunorybicki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
