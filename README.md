@@ -1,5 +1,10 @@
 # 💫 About Me
-🔭 I’m currently working on university coursework (C · Java) and small personal projects<br>👯 I’m looking to collaborate on beginner-friendly open-source and student projects, as well as simple web apps<br>🤝 I’m open to feedback on code quality, best practices, and data structures/algorithms<br>🌱 I’m currently learning data structures, computer architecture, and web fundamentals (HTML · CSS · JavaScript)<br>💬 Ask me about C · Dafny · LC-3 basics, student journalism, and video editing<br>⚡ Fun fact: I’ve worked on both coding projects and school journalism/video features
+🔭 I’m currently working on university coursework (C · Java) and small personal projects<br>
+👯 I’m looking to collaborate on beginner-friendly open-source and student projects, as well as simple web apps<br>
+🤝 I’m open to feedback on code quality, best practices, and data structures/algorithms<br>
+🌱 I’m currently learning data structures, computer architecture, and web fundamentals (HTML · CSS · JavaScript)<br>
+💬 Ask me about C · Dafny · LC-3 basics, student journalism, and video editing<br>
+⚡ Fun fact: I’ve worked on both coding projects and school journalism/video features
 
 # 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -12,12 +17,13 @@
 ![Dafny](https://img.shields.io/badge/Dafny-F7D13D?style=for-the-badge)
 ![LC-3](https://img.shields.io/badge/LC--3-6B7280?style=for-the-badge)
 
-# 📹 Software Stack
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 🛠️ Software Stack
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=brunorybicki&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=brunorybicki&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=brunorybicki&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
