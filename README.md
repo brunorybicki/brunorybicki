@@ -1,8 +1,8 @@
 # 💫 About Me
-🔭 I’m currently working on university coursework (C · Java) and small personal projects<br>
+🔭 I’m currently working on university coursework (C · Java · Haskell) and small personal projects<br>
 👯 I’m looking to collaborate on beginner-friendly open-source and student projects, as well as simple web apps<br>
 🤝 I’m open to feedback on code quality, best practices, and data structures/algorithms<br>
-🌱 I’m currently learning data structures, computer architecture, and web fundamentals (HTML · CSS · JavaScript)<br>
+🌱 I’m currently learning functional programming, statistics and probability, and web engineering<br>
 💬 Ask me about C · Java · Dafny · LC-3 basics, student journalism, and video editing<br>
 ⚡ Fun fact: I’ve worked on both coding projects and school journalism/video features
 
